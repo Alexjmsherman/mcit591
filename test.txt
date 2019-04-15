@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is a change
+=======
+this is a update
+add lines
+>>>>>>> 667f60a5d7162f13f756788b3e4d9ca501bdabd2
